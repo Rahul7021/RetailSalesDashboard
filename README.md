@@ -40,4 +40,4 @@ The store wants to create an annual sales report for 2022. So that, the store ca
 
 # Conclusion
 
-Target female customers aged between **30 and 49** residing in **Maharashtra, Karnataka, and Uttar Pradesh** by displaying advertisements, offers, and coupons accessible on Amazon, Flipkart, and Myntra.
+Target female customers aged between **30 and 49** residing in ### **Maharashtra, Karnataka, and Uttar Pradesh** by displaying advertisements, offers, and coupons accessible on Amazon, Flipkart, and Myntra.
