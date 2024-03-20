@@ -12,3 +12,5 @@ Data Visualization: Created charts and graphs to visualize the data and make it 
 Interactive Dashboard: Built an interactive dashboard in Excel that allows users to select different values in a slicer and see the corresponding charts update in real-time. This is an example of data visualization that allows for more in-depth analysis and exploration of the data.
 
 Insights & Next Steps: Finally, Provided insights and recommendations based on analysis. This might have included identifying areas for improvement, suggesting next steps, or making predictions about future trends.
+
+# OBJECTIVE
