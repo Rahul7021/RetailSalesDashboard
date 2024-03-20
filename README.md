@@ -20,22 +20,24 @@ The store wants to create an annual sales report for 2022. So that, the store ca
 
 # Questions
 
-1) Compare the sales and orders.
-2) Which month got the highest sales and order?
-3) Who purchased more men or women in 2022?
+1) Contrast sales figures with order quantities.
+2) Identify the month with the greatest sales and order volumes.
+3) In 2022, who made more purchases: men or women?
 4) What are the different order status?
-5) List the top 10 states contributing to the sales?
-6) Relation between age and gender based of number of orders?
-7) Which channel is contributing to maximum sales?
-8) Highest selling category?
+5) Enumerate the top 10 states in terms of sales contribution.
+6) Investigate the relationship between age and gender regarding order counts.
+7) Which sales channel yields the highest contribution?
+8) Determine the category with the highest sales.
 
 
 # Insights
 
 1) Women are more likely to buy compared to men (~65%)
-2) Maharashtra, Karnataka and Uttar Pradesh are the top 2 states (~35%)
+2) **Maharashtra, Karnataka and Uttar Pradesh** are the top 2 states (~35%)
 3) Adult age group (30 - 49 yrs) is max contributing (~50%)
 4) Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
 
 # Conclusion
+
+Target female customers aged between **30 and 49** residing in ###**Maharashtra, Karnataka, and Uttar Pradesh**### by displaying advertisements, offers, and coupons accessible on Amazon, Flipkart, and Myntra.
